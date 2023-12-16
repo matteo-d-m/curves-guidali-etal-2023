@@ -1,13 +1,13 @@
 ## **Psychometric curves fitting** ##
 
-This repository contains a personal copy of Matlab code that I wrote for [Guidali et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0010945223002216) and that has already been published on the Open Science Framework (OSF) at [this HTTPS URL](https://osf.io/6mypr/) (`Task and script/PSE script`). 
+This repository contains a personal copy of MATLAB code that I wrote for [Guidali et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0010945223002216) and that has already been published on the Open Science Framework (OSF) at [this HTTPS URL](https://osf.io/6mypr/) (`Task and script/PSE script`). 
 
 Broadly speaking, this code preprocesses behavioural data from a computerized landmark task (LM), fits psychometric curves to them, and plots them. Please refer to either [Guidali et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0010945223002216) or the associated OSF project page for details. 
 
 ---
 
 The code is organized as follows:
-- `Dependencies` is a folder containing Matlab code files (`.m`) with functions to:
+- `Dependencies` is a folder containing MATLAB code files (`.m`) with functions to:
     - Preprocess LM data
     - Compute LM's dependent variables 
     - Fit psychometric curves
@@ -29,7 +29,7 @@ Please preserve the current directory structure to minimize the risk of code bre
 
 | Language/Package | Version tested on | 
 |------------------|-------------------|
-|[Matlab](https://www.mathworks.com/products/matlab.html) | R2022a | 
+|[MATLAB](https://www.mathworks.com/products/MATLAB.html) | R2022a | 
 |[Curve Fitting Toolbox](https://www.mathworks.com/help/curvefit/?s_tid=srchbrcm) | R2022a | 
 
 
