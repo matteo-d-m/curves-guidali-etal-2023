@@ -1,6 +1,6 @@
 ## **Psychometric curves fitting** ##
 
-This repository contains a personal copy of MATLAB code that I wrote for [Guidali et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0010945223002216) and that has already been published on the Open Science Framework (OSF) at [this HTTPS URL](https://osf.io/6mypr/) (`Task and script/PSE script`). 
+This repository contains my personal copy of MATLAB code that I wrote for [Guidali et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0010945223002216) and that has already been published on the Open Science Framework (OSF) at [this HTTPS URL](https://osf.io/6mypr/) (`Task and script/PSE script`). 
 
 Broadly speaking, this code preprocesses behavioural data from a computerized landmark task (LM), fits psychometric curves to them, and plots them. Please refer to either [Guidali et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0010945223002216) or the associated OSF project page for details. 
 
