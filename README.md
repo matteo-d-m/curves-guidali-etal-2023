@@ -2,7 +2,7 @@
 
 This repository contains my personal copy of MATLAB code that I wrote for [Guidali et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0010945223002216) and that has already been published on the Open Science Framework (OSF) at [this HTTPS URL](https://osf.io/6mypr/) (`Task and script/PSE script`). 
 
-Broadly speaking, this code preprocesses behavioural data from a computerized landmark task (LM), fits them with psychometric curves, and plots the result. Please refer to either [Guidali et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0010945223002216) or the associated [OSF project page](https://osf.io/6mypr/) for details. 
+Broadly speaking, the code in this repository preprocesses behavioural data from a computerized landmark task (LM), fits them with psychometric curves, and plots the results. Please refer to either [Guidali et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0010945223002216) or the associated [OSF project page](https://osf.io/6mypr/) for details. 
 
 ---
 
